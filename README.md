@@ -28,3 +28,16 @@ The platonic representation hypothesis suggests that vision and language embeddi
 
 - `31/03/2025`: [ArXiv](https://arxiv.org/abs/2503.24129) preprint released. 🚀
 - `26/02/2025`: It's a (Blind) Match! has been accepted to [CVPR](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)! 🎉
+
+## Citation
+
+If you find our work helpful, please consider citing the following paper and ⭐ the repo.
+
+```
+@inproceedings{schnaus2025it,
+  title={It’s a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data},
+  author={Schnaus, Dominik and Araslanov, Nikita and Cremers, Daniel},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2025}
+}
+```
