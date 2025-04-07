@@ -12,10 +12,7 @@ Technical University of Munich, Munich Center of Machine Learning  <sup>&dagger;
 [![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 <center>
-  <video id="teaser" autoplay muted controls loop playsinline width="100%">
-    <source src="./assets/teaser.mp4"
-              type="video/mp4">
-  </video>
+  <img src="./assets/teaser.gif" width="512">
 </center>
 </div>
 
