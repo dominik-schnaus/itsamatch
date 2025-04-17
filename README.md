@@ -5,7 +5,7 @@
 
 Technical University of Munich, Munich Center of Machine Learning  <sup>&dagger;</sup>equal advising
 
-<h3>CVPR 2025 Highlight</h3>
+<h3>CVPR 2025</h3>
 
 <a href="https://arxiv.org/abs/2503.24129"><img src='https://img.shields.io/badge/ArXiv-grey' alt='Paper PDF'></a>
 <a href="https://dominik-schnaus.github.io/itsamatch/"><img src='https://img.shields.io/badge/Project Page-grey' alt='Project Page URL'></a>
