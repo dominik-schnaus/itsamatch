@@ -1,0 +1,17 @@
+--index-url https://download.pytorch.org/whl/cu126
+--extra-index-url=https://pypi.python.org/simple
+pandas
+sentence-transformers
+submitit
+torch 
+torchvision
+tqdm
+pycocotools
+xformers
+git+https://github.com/openai/CLIP.git
+timm
+seaborn
+gurobipy
+lapjv
+POT
+ninja

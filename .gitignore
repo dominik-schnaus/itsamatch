@@ -1,0 +1,9 @@
+# Visual Studio Code
+.vscode/
+
+# Fonts directory
+fonts/
+
+# Python cache files
+__pycache__/
+*.pyc
